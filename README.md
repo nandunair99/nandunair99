@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandunair99
 - 👀 I’m trying to make life easier with a laptop, internet and love for coding
-- 🌱 I’m Software Engineer with about 2 years of experience working on projects fromm various domains
+- 🌱 I’m a Software Engineer with about 2 years of experience working on projects from various domains
 - 💞️ I’m looking to collaborate on anything that adds value
 - 📫 nandu.99.nair@gmail.com
 
